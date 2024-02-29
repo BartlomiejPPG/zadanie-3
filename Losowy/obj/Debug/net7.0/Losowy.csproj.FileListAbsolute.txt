@@ -1,0 +1,14 @@
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.AssemblyInfoInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.AssemblyInfo.cs
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.csproj.CoreCompileInputs.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\bin\Debug\net7.0\Losowy.exe
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\bin\Debug\net7.0\Losowy.deps.json
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\bin\Debug\net7.0\Losowy.runtimeconfig.json
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\bin\Debug\net7.0\Losowy.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\bin\Debug\net7.0\Losowy.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\refint\Losowy.dll
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.pdb
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\Losowy.genruntimeconfig.cache
+C:\Users\Praktyka\Desktop\praktyki3P2\Losowy\Losowy\obj\Debug\net7.0\ref\Losowy.dll
